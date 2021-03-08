@@ -1,0 +1,76 @@
+
+.tab{
+   
+}
+.tab__row{
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 126px 0;
+}
+
+
+.tab__item_block{
+padding: 42px 35px;
+margin-bottom: 10px;
+background-color: #333333;
+border-radius: 4px;
+color: #ffffff;
+text-transform: uppercase;
+font-size: 15px;
+line-height: 20px;
+font-weight: bold;
+font-family: 'Open Sans';
+}
+
+.tab__item_block_pink{
+border: 1px solid rgba(236, 121, 121, 1);
+background-color: rgba(236, 121, 121, 1);
+padding: 42px 35px;
+margin-bottom: 10px;
+border-radius: 4px;
+text-transform: uppercase;
+font-size: 15px;
+line-height: 20px;
+font-weight: bold;
+font-family: 'Open Sans';
+}
+.tab__text{
+    width: 572px;
+}
+.tab__subtitle{
+    color: rgba(0, 0, 0, 1);
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+   font-weight: bold;
+   margin-bottom: 58px;
+   line-height: 27px;
+}
+.tab__discription{
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-transform: uppercase;
+margin-bottom: 89px;
+color: rgba(134, 135, 139, 1);
+}
+.tab__discriotion_text{
+    display: block;
+    margin-bottom: 1em;
+    }
+.tab__button{
+width: 135px;
+height: 42px;
+background-color: rgba(236, 121, 121, 1);
+margin-top: 100px;
+}
+.tab__button_text{
+font-size: 15px;
+font-family: 'Open Sans';
+color: rgba(255, 255, 255, 1);
+margin-top: 11px;
+margin-left: 25px;
+position: absolute; 
+
+}
